@@ -30,7 +30,7 @@
   <p><b>Objective:</b>Access the geographic distribution of sales across different locations.</p>
   <p><b>Chart Type:</b>Funnel Map.</p>
   
-  <li><b>>All Metric by Outlet Type:</b</li>
+  <li><b>All Metric by Outlet Type:</b</li>
   <p><b>Objective:</b>Provide a comprehensive view of all key metrics (Total Sales,Average Sale, Avrage Rating,No of items) broken down by different outlet types.</p>
   <p><b>Chart Type:</b>Matrix Card.</p>
 </ol>
